@@ -1,5 +1,4 @@
-# handninja
-# 🍉 Hand Ninja — Webcam Fruit Slicing Game with Real-Time Hand Tracking
+# Hand Ninja — Webcam Fruit Slicing Game with Real-Time Hand Tracking
 
 **Hand Ninja** is a browser-based, Fruit-Ninja-style slicing game controlled entirely by your **index fingers** — no mouse, no keyboard, no controller. It runs your webcam through [Google MediaPipe](https://developers.google.com/mediapipe)'s `HandLandmarker` model to track your hands in real time and turns your fingertips into blades.
 
