@@ -6,7 +6,7 @@
 
 Built as a **single self-contained `index.html` file** — no build step, no dependencies to install, no backend. Open it and play.
 
-**[https://handninja.netlify.app/ ](#)** 
+**[ https://handninja.netlify.app/ ](#)** 
 
 ---
 
